@@ -13,6 +13,7 @@ use Illuminate\Http\Request;
 trait IFileUploadTrait
 {
 
+
     /**
      * @param Request $request
      * @return string

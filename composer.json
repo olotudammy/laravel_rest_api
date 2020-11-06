@@ -1,13 +1,13 @@
 {
-    "name": "crystoline/laravel-rest-api",
+    "name": "olotudammy/laravel_rest_api",
     "description": "Laravel Rest Api Library. Write produce rest apis very fast",
     "keywords": ["laravel", "rest", "api", "rest api"],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Adekunle Adekoya",
-            "email": "crystoline@gmail.com"
+            "name": "Olotu Damilola",
+            "email": "olotudammy@gmail.com"
         }
     ],
     "require": {
