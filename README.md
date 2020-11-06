@@ -16,7 +16,7 @@ Provide rest apis in Laravel in easy steps. Avoid Repeated crud/Bread Process. T
 ## Installation 
 
 ```
-composer require crystoline/laravel-rest-api
+composer require olotudammy/laravel_rest_api
 ```
 
 ##Usage
